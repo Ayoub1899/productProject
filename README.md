@@ -7,4 +7,7 @@ Mot de passe : password
 Adresse mail : manager@mail.com
 <br />
 Mot de passe : password
+<br />
+La base de données se trouve dans le fichier products.zip
+
 
